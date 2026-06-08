@@ -1,5 +1,4 @@
 ## Hi, I'm Nguyen Minh Phung 👋
-### 📊 Performance & Commit Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhphung2911&theme=tokyonight" width="70%" alt="GitHub Streak" />
