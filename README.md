@@ -1,5 +1,9 @@
 ## Hi, I'm Nguyen Minh Phung 👋
+### 📊 Performance & Commit Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhphung2911&theme=tokyonight" width="70%" alt="GitHub Streak" />
+</p>
 <!--
 **minhphung2911/minhphung2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
